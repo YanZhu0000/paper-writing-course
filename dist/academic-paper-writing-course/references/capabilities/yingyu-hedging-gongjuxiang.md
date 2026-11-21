@@ -26,19 +26,19 @@
 
 ## A1 — 书中案例（Past Application）
 
-**1. 同一主张的成对档位示范**
+**1. 同一主张的成对档位示范（出处：《研究生英语学术论文写作》pp.88-89，行3028-3185）****
 - 问题：强化与弱化在句面上怎么实现。
 - 怎么用：教材用同一句 "An increase in smoking among teenagers caused long-term health problems" 做双向改造——强化版（a sharp increase / undeniably caused / It is clear that an increase...）与弱化版（a probable increase / may have caused / contributed to / We have reason to believe that an increase...）（第88-89页）。
 - 结论：强化与弱化是同一句子的两个镜像操作，工具对称。
 - 实际结果：成为主张校准的母模板。
 
-**2. 弱化词表的成表收录**
+**2. 弱化词表的成表收录（出处：《研究生英语学术论文写作》pp.83-84，行2451-2490）****
 - 问题：弱化手段有哪些、是否系统。
 - 怎么用：教材把弱化动词（appear / argue / doubt / estimate / seem / speculate / suggest）与副词（largely / likely / mainly / maybe / perhaps / possibly / probably / rather / relatively / seemingly / somewhat / sometimes）列成表格（第100页）。
 - 结论：hedging 是可查表的词汇资源，不是语感。
 - 实际结果：学生按表逐词升级自己的讨论段。
 
-**3. 真实论文讨论段的档位标注练习**
+**3. 真实论文讨论段的档位标注练习（出处：《研究生英语学术论文写作》p.98，行2889-3015）****
 - 问题：发表过的论文怎么混用两档。
 - 怎么用：教材取一组已发表论文讨论句让学生标注强化/弱化及理由——如 "We observed a stronger positive association for..."（强化）、"It is possible that the referent group had a smaller-than-expected cancer incidence by chance"（弱化）、"This could explain some of the inconsistencies in the literature"（弱化）（第100页）。
 - 结论：同一讨论段内两档并存，逐句由证据决定。

@@ -24,19 +24,19 @@
 
 ## A1 — 书中案例（Past Application）
 
-**1. 六类正式性修正的成对改写示范**
+**1. 六类正式性修正的成对改写示范（出处：《研究生英语学术论文写作》pp.17-22）****
 - 问题：学生分不清"哪句话不正式、为什么"。
 - 怎么用：教材给出逐条对照——"Export figures won't improve"→"will not improve"；"didn't yield any new results"→"yielded no new results"；"You can see the results in Table 1"→"The results can be seen in Table 1"（第19-20页）。
 - 结论：每处修正都对应唯一一条规则，可机械执行。
 - 实际结果：学生按五禁逐句排查即可完成从口语体到学术体的转换。
 
-**2. 人称改写练习**
+**2. 人称改写练习（出处：《研究生英语学术论文写作》p.38，行883-920）**
 - 问题：中式写作爱用 I/we 开头。
 - 怎么用：书中把 "I think that the methodology section is a hugely important part of your research proposal" 作为待改错句，要求删除第一/第二人称后重写（第38页）。
 - 结论：删人称的同时必须补客观主语（The methodology section is...），否则句子塌掉。
 - 实际结果：训练"被动化+物作主语"的组合动作。
 
-**3. 直接英文构思的反面证据**
+**3. 直接英文构思的反面证据（本课程综合案例——综合自《研究生英语学术论文写作》用词四原则章节）**
 - 问题：为什么中国作者的英语"不地道"。
 - 怎么用：SCI 书作者点名"先写中文再翻译"这条路径，指出其结果是"写出的英文没有脱离中文稿件的束缚，甚至写出的英文是中国式英语"（第29页）。
 - 结论：翻译腔是路径问题不是词汇量问题。

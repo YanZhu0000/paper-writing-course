@@ -24,19 +24,19 @@
 
 ## A1 — 书中案例（Past Application）
 
-**1. Siegel 例的三改写判定**
+**1. Siegel 例的三改写判定（出处：《研究生英语学术论文写作》pp.50-51）****
 - 问题：怎样的改写算合格。
 - 怎么用：教材给出原文（"We do not yet understand all the ways in which brain chemicals are related to emotions and thoughts..."）与三个候选改写：Paraphrase 2 仅做同义替换、句式照抄，判为不可接受；Paraphrase 1/3 调整了信息结构与词序，判为可接受（第61页）。
 - 结论：结构调适是必要条件，不是充分条件的补丁——无结构变化即伪改写。
 - 实际结果：成为"可接受改写"的操作性判例。
 
-**2. 狐狸例：改写与总结的分野**
+**2. 狐狸例：改写与总结的分野（出处：《研究生英语学术论文写作》pp.50-51、103）****
 - 问题：改写和总结到底差在哪。
 - 怎么用：同一原文给出改写（"The rabbit stayed still in the light of the moon while the fox surveyed the land using its spectacular hearing and night vision"，换视角几乎等长）与总结（"Foxes hunt rabbits at night using their ears and eyes"，一句收纳）（第60-61页）。
 - 结论：改写保信息、总结提主旨，长度契约不同。
 - 实际结果：两条路径从此可按需选择。
 
-**3. 胰岛素发现例的四总结判定**
+**3. 胰岛素发现例的四总结判定（出处：《研究生英语学术论文写作》pp.100-101）****
 - 问题：总结做短了为什么还不行。
 - 怎么用：教材给出原文四个候选总结——Summary 1/2 过长且细节照搬，Summary 3 可接受但偏长，Summary 4 最短仍保住主旨并标页码，判为最优（第110-111页）。
 - 结论：好总结=只留主旨+压缩篇幅+标注页码，三者缺一不可。

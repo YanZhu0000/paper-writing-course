@@ -26,19 +26,19 @@
 
 ## A1 — 书中案例（Past Application）
 
-**1. 三档动词分类表**
+**1. 三档动词分类表（出处：《研究生英语学术论文写作》pp.54-56）**
 - 问题：引用动词该怎么选、有没有系统。
 - 怎么用：教材按功能与强度把主要引用动词列成三档分类表（describe/show/report...；suggest/imply/hypothesize...；argue/claim/refute...）（第55页，行1411-1427）。
 - 结论：强度即立场标注，选动词前先判断被引作者对自己研究的把握度。
 - 实际结果：成为全书引用教学的骨架工具。
 
-**2. say/tell 的禁用与替换**
+**2. say/tell 的禁用与替换（出处：《研究生英语学术论文写作》pp.54-56）****
 - 问题：学生惯用口语引用动词。
 - 怎么用：书中直接判死 say/tell（"normally used in oral conversations"），要求改用分层动词（第54页）。
 - 结论：口语档在学术写作中不存在，至少要进中性档。
 - 实际结果：把"引用动词"从随便用变成有下限的选择。
 
-**3. 分歧并置的作者突出示范**
+**3. 分歧并置的作者突出示范（出处：《研究生英语学术论文写作》p.57，行1543-1560）****
 - 问题：如何呈现两篇矛盾文献而不失真。
 - 怎么用：教材用羊毛业范例——"As Smith (2000) pointed out, the wool industry was experiencing difficulties... However, Jones et al. (2004) found that industry difficulties were more related to quality of supply than to demand issues. It is clear that considerable disagreement exists..."（第57页）。
 - 结论：作者突出句式+两个档位准确的动词+一句分歧判断=合法的分歧呈现。

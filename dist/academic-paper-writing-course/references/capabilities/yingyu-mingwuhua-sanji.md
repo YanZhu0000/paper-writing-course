@@ -24,19 +24,19 @@
 
 ## A1 — 书中案例（Past Application）
 
-**1. reject→rejection→Sam's rejection→Failure could result in rejection**
+**1. reject→rejection→Sam's rejection→Failure could result in rejection（出处：《研究生英语学术论文写作》pp.40-42，行955-990）****
 - 问题：教材需要一个能同时展示三级的例子。
 - 怎么用：用同一对概念（reject / rejection）逐级演示词级、短语级、小句级（第40页）。
 - 结论：三级不是三种技巧，是同一动作的三种打包粒度。
 - 实际结果：成为全书名物化练习的母模板。
 
-**2. 课堂生活句的整段改造**
+**2. 课堂生活句的整段改造（出处：《研究生英语学术论文写作》pp.40-43，行932-990）****
 - 问题：练习句 "Many children experience worries when they go to school for the first time" 及 "Crime was increasing rapidly and the police were becoming concerned" 太散。
 - 怎么用：要求学生用名物化重写（第41页）。
 - 结论：连续两个小句压成一个名词链后，句子获得学术节奏。
 - 实际结果：验证名物化在"事件并列"场景最有效。
 
-**3. 澳大利亚社会不平等段的整段名物化**
+**3. 澳大利亚社会不平等段的整段名物化（出处：《研究生英语学术论文写作》pp.42-43，行1010-1030）****
 - 问题：整段口语化表述（"only a few people have most of the money and power..."）无法直接进学术文本。
 - 怎么用：布置为整段名物化练习（第42页）。
 - 结论：段落级的名物化改造等于重述论证结构，不是逐句替换。

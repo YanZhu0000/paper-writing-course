@@ -24,19 +24,19 @@
 
 ## A1 — 书中案例（Past Application）
 
-**1. 结论句式库的成套示范**
+**1. 结论句式库的成套示范（出处：《研究生英语学术论文写作》pp.104-105）****
 - 问题：结论开头怎么写、写什么。
 - 怎么用：教材给出斜体标注的常用句式集合——成果句（This paper has demonstrated that the factors... can be measured by using present-day theoretical tools）、局限+贡献句（the present study obviously has its limits. But it provides specific evidence...）、展望句（It is to be hoped that researchers will continue to pursue this research agenda）（第114-115页）。
 - 结论：结论三类功能各有现成句式，可套用后个性化。
 - 实际结果：成为结论写作的起点模板。
 
-**2. 研究问题的陈述式转换**
+**2. 研究问题的陈述式转换（出处：《研究生英语学术论文写作》pp.105-106）****
 - 问题：疑问式研究问题如何在结论里收口。
 - 怎么用：教材示范"Research question: What is more important: competitive price, fuel economy, or high resale value when Chinese people buy cars?"→"Concluding statement: The research set out to determine what factors contribute more to Chinese people's decision when purchasing cars..."（第116页）。
 - 结论：重述=换句式+疑问转陈述，不是复读。
 - 实际结果：提供六种重述开头句式。
 
-**3. 范文结论的局限处置**
+**3. 范文结论的局限处置（出处：《研究生英语学术论文写作》p.107，行3393-3398）****
 - 问题：局限与推测怎么写不塌。
 - 怎么用：酚类暴露论文的结论段先报发现（"we found that paternal PCP exposure... were positively associated..."），再列局限（"The major limitations of our study are the relatively small sample size and its cross-sectional design which restricts the ability to make causal conclusion"），最后给方向（"We recommend that further investigation is needed to elucidate the mechanisms..."）（第106-107页）。
 - 结论：发现→局限→方向三段式，推测全部带条件语。

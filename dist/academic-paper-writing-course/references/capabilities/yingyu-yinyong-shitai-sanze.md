@@ -26,19 +26,19 @@
 
 ## A1 — 书中案例（Past Application）
 
-**1. 三种时态的成对示范**
+**1. 三种时态的成对示范（出处：《研究生英语学术论文写作》pp.53-55，行1325-1400）****
 - 问题：学生分不清何时用哪种时态引用。
 - 怎么用：教材各给一句标杆——"King states that we 'need to be comfortable enough with technology tools...'"（现在时转述观点）、"Carlson and Benton (2007) found that as they increased the participants' stress levels, the results of their performance deteriorated"（过去时报告单项研究）、"recent studies have demonstrated that educational methodology is now moving in a new direction"（完成时强调积累）（第53页）。
 - 结论：时态选择由"引用什么"决定：观点/单研究/积累三选一。
 - 实际结果：成为引用句式的时态自查表。
 
-**2. SCI 书的全文时态分工**
+**2. SCI 书的全文时态分工（本课程综合案例——综合自《SCI论文写作解析》时态章与《研究生英语学术论文写作》pp.53-55）****
 - 问题：时态只在引言里对吗。
 - 怎么用：SCI 书给出各部分分工——摘要方法结果用过去时、引言描述他人工作用现在时、讨论可多时态、描述已知原理用现在时（第29页）。
 - 结论：时态规则覆盖全文，不是引言专属。
 - 实际结果：把三条引用规则扩成全文时态地图。
 
-**3. Sample 2 的时态分布检验**
+**3. Sample 2 的时态分布检验（出处：《研究生英语学术论文写作》pp.50-52）****
 - 问题：真实论文怎么混用时态。
 - 怎么用：教材让学生统计范文（poverty-environmental degradation 综述）中各时态出现次数并解释原因（第54页练习）。
 - 结论：单篇论文内三种时态按功能自然混用，不是通篇一种。

@@ -22,19 +22,19 @@
 
 ## A1 — 书中案例（Past Application）
 
-**1. 已发表论文的四 moves 解剖**
+**1. 已发表论文的四 moves 解剖（出处：《研究生英语学术论文写作》pp.91-93）****
 - 问题：结果节怎么组织才不是数据堆。
 - 怎么用：教材让学生对范文（EFL 学习者语言思维与搭配产出）逐段标信息要素：按研究问题分节（Question 1/Question 2）、每节内"引出表格→描述数据→统计检验→一句小结"，评论功能全部后置到 Discussion 节（第85-87、101页）。
 - 结论：结果节=报告的分工纪律，评论独立成节。
 - 实际结果：四 moves 成为节级装配图。
 
-**2. ANOVA 段的句型示范**
+**2. ANOVA 段的句型示范（出处：《研究生英语学术论文写作》pp.86-87，行2534-2571）****
 - 问题：统计结果怎么写才既准确又不单调。
 - 怎么用：范文轮换使用 "Descriptive statistics demonstrated that... / Results of a one-way analysis of variance (ANOVA) further displayed that the difference reached a significant level, F(2, 39)=4.07, p<0.05 / The LSD test showed that..."（第86页），教材据此抽练句型与突出句式。
 - 结论：报告句的动词轮换+统计量完整报告（F 值/p 值）是并行的两个要求。
 - 实际结果：句型池成为结果段语言工具箱。
 
-**3. 阴性结果的如实报道示范**
+**3. 阴性结果的如实报道示范（出处：《研究生英语学术论文写作》pp.86-88，行2548-2604）****
 - 问题：不显著的检验怎么写。
 - 怎么用：范文如实写 "It did not reach the significance level, F(2, 82)=0.58, p>0.05. This result indicates that the selection of oral elicitation tasks did not starkly influence the inaccuracy rate"（第87页）；sci 书明文规定阴性结果不得按主观意愿更改或伪造（第62-63页）。
 - 结论：阴性结果是合法且必须报道的发现。

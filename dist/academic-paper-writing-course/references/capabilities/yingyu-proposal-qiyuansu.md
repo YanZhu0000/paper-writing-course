@@ -28,19 +28,19 @@ Research proposal（研究计划书）是研究生学位申请与开题的必备
 
 ## A1 — 书中案例（Past Application）
 
-**1. 七要素的整篇示范与逐项讲解**
+**1. 七要素的整篇示范与逐项讲解（出处：《研究生英语学术论文写作》pp.31-34，行678-760）****
 - 问题：proposal 该包含什么、每项写什么。
 - 怎么用：教材用改编自 Akorede & Amuda 与 Wents 的样板文逐项讲解——working title 双信息原则、概述须含 1-3 个可检验问题、综述须答"Has anybody worked on this topic area before?"、方法须 justify、设施须写获取路径、结论段写预期贡献、文献表 IEEE/MLA 对应学科（第31-34页）。
 - 结论：七要素是完备性清单，缺项即评审扣分点。
 - 实际结果：成为本单元写作作业的装配规格。
 
-**2. Hulstijn & de Graaff 范文的假设序列**
+**2. Hulstijn & de Graaff 范文的假设序列（出处：《研究生英语学术论文写作》附录1，pp.153-164）****
 - 问题：理论争论怎么变成可检验承诺。
 - 怎么用：附录1整篇范文把二语习得中"显性教学优势"的争论拆成六个维度，每维给出一条可检验假设——如 "H1: The advantage of the provision of explicit instruction... is greater in the case of aspects falling outside the scope of UG than in the case of aspects falling inside its scope"（第157-158页），并明示局限："each hypothesis embodies a simplification: The reader has to add the phrase 'ceteris paribus' to each hypothesis"（第157页）。
 - 结论：编号假设序列把立场变成逐条可验的承诺，ceteris paribus 声明把简化诚实化。
 - 实际结果：成为"研究纲领式 proposal"的标杆文本。
 
-**3. 方法难点的提前预警**
+**3. 方法难点的提前预警（出处：《研究生英语学术论文写作》p.33，行716-759）****
 - 问题：proposal 里方法部分学生最怕什么。
 - 怎么用：教材指出方法节"是学生觉得最难的部分"，建议去看同类已发表论文的方法写法，并强调要写具体技术而不只是"general approach"（第33页）。
 - 结论：方法节的合格线是"具体到可执行+说明为何优于替代方案"。

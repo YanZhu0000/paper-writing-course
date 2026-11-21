@@ -26,19 +26,19 @@
 
 ## A1 — 书中案例（Past Application）
 
-**1. 方法部分五个被动场景句式示范**
+**1. 方法部分五个被动场景句式示范（出处：《研究生英语学术论文写作》pp.59-60）****
 - 问题：学生不知道被动句在方法部分长什么样。
 - 怎么用：教材按 procedure/instrument/sampling/data analysis 各给一句——"The study was conducted at the beginning of the semester"（procedure）、"respondents were recruited from diverse fields of study"（sampling）等（第70页）。
 - 结论：被动不是全文均匀撒，而是按信息要素分布。
 - 实际结果：学生可按要素套句式。
 
-**2. 泛指主语流水句的修正**
+**2. 泛指主语流水句的修正（出处：《研究生英语学术论文写作》pp.19-20）****
 - 问题：练习句 "People fix a kind of lid to the top of the pipe, and they allow the oil to flow out" 主观色彩重且读起来像说明书。
 - 怎么用：改为 "A kind of lid is fixed to the top of the pipe, and the oil is allowed to flow out gently through taps"（第73页）。
 - 结论：删泛指主语+被动化是同一次手术的两步。
 - 实际结果：成为"中式流水句→学术句"的标准病例。
 
-**3. SCI 书的语态分工证据**
+**3. SCI 书的语态分工证据（本课程综合案例——综合自《SCI论文写作解析》方法部分章节与《研究生英语学术论文写作》pp.59-60）**
 - 问题：摘要与讨论的语态该一致吗。
 - 怎么用：SCI 书统计已发表摘要以被动居多（强调事实经过），同时指出主动语态"文字表达清晰、简明，能够突出动作的实施者，近年有使用逐渐增多的趋势"（第45页）。
 - 结论：语态是表达选择不是全刊统一纪律，趋势在向主动回摆。

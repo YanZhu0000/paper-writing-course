@@ -27,19 +27,19 @@
 
 ## A1 — 书中案例（Past Application）
 
-**1. 研究螺旋图示的完整铺设**
+**1. 研究螺旋图示的完整铺设（出处：《研究生英语学术论文写作》pp.19-20）****
 - 问题：学生不知道从兴趣到问题要走哪些层。
 - 怎么用：教材用 Figure 2-1 把五层画出（AOS / comprehensive literature review / focused literature review / general research concept / specific problem statement），并逐层说明功能（第29-31页）。
 - 结论：漏斗路径是可逐层核对的程序，不是隐喻。
 - 实际结果：成为 Unit 2 全单元的组织骨架。
 
-**2. 双综述的功能二分**
+**2. 双综述的功能二分（出处：《研究生英语学术论文写作》p.30，行615-640）****
 - 问题：综述为什么要做两遍、第二遍是不是重复劳动。
 - 怎么用：教材明确两版综述的 topical breadth 不同——第一版宽读教自己（"Your research questions emerge from this first stage"），第二版窄写给读者（"The outcome of this stage is included in the research proposal"）（第30页）。
 - 结论：两轮综述受众不同、产出不同，切换点由研究问题定稿触发。
 - 实际结果：回答了"读过的文献为什么还要重写一遍综述"这个常见困惑。
 
-**3. what/how/why 三问的过渡程序**
+**3. what/how/why 三问的过渡程序（出处：《研究生英语学术论文写作》p.30）****
 - 问题：从宽阅读到问题陈述之间缺一环。
 - 怎么用：教材给一般研究概念层配置九个问句模板（What else can we know about something? / How has this problem been addressed by others? / Why don't we understand this part? 等）（第30页）。
 - 结论：三问的答案直接组装成 generalized research concept，向下钻取即得 problem statement。

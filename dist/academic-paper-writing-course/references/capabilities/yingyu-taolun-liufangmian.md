@@ -26,19 +26,19 @@
 
 ## A1 — 书中案例（Past Application）
 
-**1. 范文讨论段的信息要素标注**
+**1. 范文讨论段的信息要素标注（出处：《研究生英语学术论文写作》p.101，行3188-3210）****
 - 问题：六方面在真实讨论里怎么排布。
 - 怎么用：教材让学生给范文讨论节逐句标注信息要素——首句回扣研究问题（"The first research question investigated how..."）、解释句（"This finding accords with Goh's (2002) assumption that..."）、意义句（"Another crucial implication that may be drawn..."）、局限句（"We attribute this disagreement to the small number of participants"）、总结句（"To sum up, although task effect was not significant..."）（第91页）。
 - 结论：六方面不必齐全但序次有逻辑，要素句可识别。
 - 实际结果：成为讨论段装配的对照表。
 
-**2. 意外结果的处置示范**
+**2. 意外结果的处置示范（出处：《研究生英语学术论文写作》pp.87-88，行2604-2620）****
 - 问题：结果与经典文献相反怎么办。
 - 怎么用：范文直面与 Nakahama et al. (2001) 等结论的不一致："Yet task effect in this study did not confirm their research. We attribute this disagreement to the small number of participants..."（第88-89页）。
 - 结论：承认不一致→给出可检验的原因假设（样本量）→顺势指出任务加工需求的影响——意外被转化为贡献。
 - 实际结果：成为"呼应不重复+慎重解释"的双重示范。
 
-**3. 夸大词禁令与结论表述之辨**
+**3. 夸大词禁令与结论表述之辨（本课程综合案例——规则综合自《SCI论文写作解析》pp.51、64 与《研究生英语学术论文写作》结论章）****
 - 问题：讨论结尾的结论该怎么说话。
 - 怎么用：sci 书禁用"首次报道""填补空白"等词，并区分讨论结论与摘要结论——观点一致但表述有别、讨论版可适当展开（第64-65页）。
 - 结论：谦逊纪律覆盖措辞与结论两个出口。
