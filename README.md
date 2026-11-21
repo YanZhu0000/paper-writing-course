@@ -58,8 +58,9 @@ cp -r dist/academic-paper-writing-course ~/.codebuddy/skills/
 paper-writing-course/
 ├── README.md
 ├── dist/academic-paper-writing-course/   # 可安装的 skill 本体（开源安全版）
-│   ├── SKILL.md                          # 课程入口：触发规则 + 8条核心原则 + 80条意图路由表
+│   ├── SKILL.md                          # 课程入口（约3K token）：触发规则 + 8条核心原则 + 分域路由速查
 │   ├── references/capabilities/          # 80张能力卡（六段：R出处锚点/I重述/A1案例/A2触发/E步骤/B边界）
+│   ├── references/routing-table.md       # 80条意图级路由表（用户意图 → 先读卡 → 补读卡，按需加载）
 │   ├── references/{capability-index,cheatsheet,glossary,overview}.md
 │   └── tests/                            # 评测用例（77条触发 + 9条输出，darwin 兼容格式）
 └── docs/
