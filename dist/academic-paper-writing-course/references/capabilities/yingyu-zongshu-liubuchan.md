@@ -2,6 +2,8 @@
 
 ## R — 原文（Reading）
 
+> **出处书**：《研究生英语学术论文写作》（金晶、郑玉琪主编） & 《SCI论文写作解析》（李达）。本卡佐证的页码/行号按此书计；公开版逐字引文已按版权要求移除。
+
 > 〔原文佐证从略——Unit 3《Introduction & Literature Review》（第63页，行1776-1782）〕
 
 > 〔原文佐证从略——Unit 3《Introduction & Literature Review》（第63页，行1787-1791）〕
