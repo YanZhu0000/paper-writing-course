@@ -1,0 +1,31 @@
+# 敏感信息防护 —— 永远不要提交以下文件
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.p12
+*.pfx
+*secret*
+*credential*
+*.keystore
+id_rsa*
+known_hosts
+
+# 凭据与令牌
+*_token*
+*_apikey*
+*_api_key*
+auth.json
+credentials.json
+
+# 日志与临时文件（可能含敏感信息）
+*.log
+tmp/
+.DS_Store
+
+# Python / Node 构建产物
+__pycache__/
+*.pyc
+node_modules/
+dist/
